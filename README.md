@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Tower Defense in Godot<br>🌱 I’m currently learning  python for AI<br>💬 Ask me about any of my repositories<br>⚠️ Some projects don't work without some modifications<br>🔒 Two CTF on this github....
+🔭 I’m currently working on SOC Project<br>🌱 I’m currently learning  python for AI<br>💬 Ask me about any of my repositories<br>⚠️ Some projects don't work without some modifications<br>🔒 Two CTF on this github....
 
 
 ## 🌐 Socials:
